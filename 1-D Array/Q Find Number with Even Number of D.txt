@@ -1,0 +1,51 @@
+//Q Find Number with Even Number of Digit ?
+// Approach - 1(Simple Approach)
+//T C : O(n)
+//S C : O(1)
+class Solution {
+      public int digit(int nums){
+
+         if(nums < 0){
+
+            nums = nums*-1; //negative number check
+         }
+
+         if(nums == 0){
+            return 1;
+         }
+
+         int count  = 0;
+
+         while(nums > 0){
+
+             count++;
+             nums = nums/10; //nums/=10
+
+         }
+
+        return count;
+      }
+      //for even Number
+      public boolean even(int nums){
+
+            int evenNumber = digit(nums);
+
+            return evenNumber%2==0;
+
+      }
+    public int findNumbers(int[] nums) {
+
+      int count1 = 0;
+     for(int num : nums){
+
+          if(even(num)){
+
+               count1++;
+
+          }
+     }
+
+      return count1;
+        
+    }
+}

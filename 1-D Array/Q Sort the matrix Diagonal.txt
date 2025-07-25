@@ -1,0 +1,34 @@
+// Q Sort the matrix Diagonal ?
+
+//T C :O(m×nlog(min(m,n)))
+class Solution {
+    public int[][] diagonalSort(int[][] mat) {
+        int m = mat.length;
+        int n = mat[0].length;
+        
+        // Using a HashMap to store the diagonals
+        Map<Integer, List<Integer>> map = new HashMap<>();
+        
+        // Store diagonal elements
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                map.putIfAbsent(i - j, new ArrayList<>());
+                map.get(i - j).add(mat[i][j]);
+            }
+        }
+        
+        // Sort each diagonal list
+        for (Map.Entry<Integer, List<Integer>> entry : map.entrySet()) {
+            Collections.sort(entry.getValue());
+        }
+        
+        // Put the sorted values back in the matrix
+        for (int i = m - 1; i >= 0; i--) {
+            for (int j = n - 1; j >= 0; j--) {
+                mat[i][j] = map.get(i - j).remove(map.get(i - j).size() - 1);
+            }
+        }
+        
+        return mat;
+    }
+}

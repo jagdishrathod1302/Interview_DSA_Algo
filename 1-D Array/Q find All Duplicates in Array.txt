@@ -1,0 +1,31 @@
+// Q find All Duplicates in Array ?
+//Approach (make array value negative)
+//T C : 0(n)
+//S C : 0(1)
+class Solution {
+    public List<Integer> findDuplicates(int[] nums) {
+
+    int n = nums.length;
+      List<Integer> result = new ArrayList<>();
+
+    for(int i=0; i<n; i++){
+
+        int num = Math.abs(nums[i]);//here we take positive value 
+       
+         if(nums[num-1] < 0){
+
+              result.add(num);    
+
+         }
+         else{
+
+              nums[num-1]*=-1; //here we get negative value add in nums Array
+
+         }
+
+    }
+
+       return result;
+        
+    }
+}
