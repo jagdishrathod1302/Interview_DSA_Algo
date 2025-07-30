@@ -4,7 +4,7 @@
 
 /*
 Step 1 : if Abs(i-j) > k then shrink Window remove i value from set and increse i++
-Step 2 : if j value present in sait means duplicate found in window return retrue 
+Step 2 : if j value present in set means duplicate found in window return true 
 Step   : Otherwise add j value in Set() and increse j pointer further check 
  */
 
