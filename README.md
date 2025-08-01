@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0219-contains-duplicate-ii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Queue
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## String
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
