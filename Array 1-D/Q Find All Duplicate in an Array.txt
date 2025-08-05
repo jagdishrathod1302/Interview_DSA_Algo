@@ -1,0 +1,61 @@
+// Q Find All Duplicate in an Array ?
+//Approach : Using Sorting 
+// T C : O(n log)
+// S C : O(1)
+class Solution {
+    public List<Integer> findDuplicates(int[] nums) {
+        
+         int n = nums.length;
+         
+         Arrays.sort(nums);
+         List<Integer> result = new ArrayList<>();
+
+         for (int i=1; i<n; i++){
+
+              if(nums[i] == nums[i-1]){
+                  result.add(nums[i]);
+              }
+         }
+
+         return result;       
+    }
+}
+===============================================================================================
+//Aproach : Optimize Solution 
+// T C : O(n)
+// S C :
+
+/*
+Step 1: Approach using "Use the number as index" means we mark array visited    
+        number Negative like tha {-4,-3,-2,-7}
+
+Step 2 : we Take abs() value for positive number if we get Positive number in
+         array we sorted this number in reuslt because last we visited
+
+Step 3 : make number negative
+
+ */
+
+class Solution {
+    public List<Integer> findDuplicates(int[] nums) {
+        
+        int n = nums.length;
+        List<Integer> result = new ArrayList<>();
+
+        for (int i=0;i<n; i++){
+
+            // take positive value here
+            int num = Math.abs(nums[i]);
+
+            if(nums[num-1] < 0){
+                result.add(num); 
+            }else{
+                nums[num-1]*=-1; //make the value negative
+
+            }
+        }
+         return result;
+      
+
+    }
+}
