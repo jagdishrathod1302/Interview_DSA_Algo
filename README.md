@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0229-majority-element-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Hash Table
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Math
+|  |
+| ------- |
+| [2432-number-of-zero-filled-subarrays](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/2432-number-of-zero-filled-subarrays) |
 <!---LeetCode Topics End-->
