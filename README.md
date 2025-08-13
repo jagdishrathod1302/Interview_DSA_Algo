@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0229-majority-element-ii) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Queue
 |  |
 | ------- |
