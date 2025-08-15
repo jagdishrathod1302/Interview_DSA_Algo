@@ -17,15 +17,6 @@ class Solution {
     public int pivotIndex(int[] nums) {
         int n = nums.length;
 
-        // Special case: single element array
-        // if (n == 1) {
-        //     return 0; // index 0 is the pivot
-        // }
-        // // Special case: two elements can't have a pivot
-        // if (n == 2) {
-        //     return -1;
-        // }
-
         // Calculate total sum
         int totalSum = 0;
         for (int num : nums) {
