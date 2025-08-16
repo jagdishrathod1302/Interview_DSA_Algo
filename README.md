@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Queue
 |  |
