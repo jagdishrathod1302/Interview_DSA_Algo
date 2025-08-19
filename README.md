@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0229-majority-element-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0713-subarray-product-less-than-k) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0229-majority-element-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0229-majority-element-ii) |
 | [0941-sort-array-by-parity](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0941-sort-array-by-parity) |
 ## Counting
