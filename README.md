@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0229-majority-element-ii) |
+| [0692-top-k-frequent-words](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0724-find-pivot-index) |
 | [0941-sort-array-by-parity](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0941-sort-array-by-parity) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0229-majority-element-ii) |
+| [0692-top-k-frequent-words](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0692-top-k-frequent-words) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0692-top-k-frequent-words) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Divide and Conquer
 |  |
@@ -58,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0229-majority-element-ii) |
+| [0692-top-k-frequent-words](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0692-top-k-frequent-words) |
 | [0941-sort-array-by-parity](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0941-sort-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0229-majority-element-ii) |
+| [0692-top-k-frequent-words](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0692-top-k-frequent-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0075-sort-colors) |
 | [0941-sort-array-by-parity](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0941-sort-array-by-parity) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0692-top-k-frequent-words) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
