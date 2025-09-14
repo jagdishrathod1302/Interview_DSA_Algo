@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0692-top-k-frequent-words) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
