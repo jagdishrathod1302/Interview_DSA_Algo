@@ -24,3 +24,16 @@ class Solution {
         
     }
 }
+=======================================================================================================================================================================
+ //Using Java 8 
+ class Solution {
+    public String largestGoodInteger(String num) {
+
+      return IntStream.range(2,num.length())
+        .filter(i->num.charAt(i) == num.charAt(i-1) && num.charAt(i) == num.charAt(i-2))
+        .mapToObj(i->""+num.charAt(i)+num.charAt(i)+num.charAt(i))
+        .max(String::compareTo)
+        .orElse("");
+        
+    }
+}
