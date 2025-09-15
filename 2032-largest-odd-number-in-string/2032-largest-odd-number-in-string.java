@@ -1,4 +1,4 @@
-// Approach : simple Back Iteration 
+// Approach : Greedy simple Back Iteration 
 // T C : O(n)
 // S C : O(1)
 
