@@ -24,3 +24,17 @@ class Solution {
     }
 }
 /*************************************************************************************************************************************************************/
+//Java 8
+lass Solution {  
+    public String largestOddNumber(String num) {
+
+      int n = num.length();
+
+  return IntStream.iterate(n -1,i->i >= 0,i->i-1)
+         .filter(i->Character.getNumericValue(num.charAt(i))%2 != 0)
+         .mapToObj(i->num.substring(0,i+1))
+         .findFirst()
+         .orElse(""); 
+        
+    }
+}
