@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2032-largest-odd-number-in-string](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3396-valid-word](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/3396-valid-word) |
 ## Divide and Conquer
 |  |
 | ------- |
