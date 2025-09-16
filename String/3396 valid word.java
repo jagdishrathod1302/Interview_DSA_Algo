@@ -39,3 +39,29 @@ class Solution {
       return hasVowel && hasConsonant;    
     }
 }
+/*********************************************************************************************************************************************************/
+// Approach using Java 8
+public class ValidString_Java8 {
+    public  static boolean isValid(String word){
+        if (word.length() < 3) {
+            return false;
+        }
+
+        String lower = word.toLowerCase();
+
+        // Check all characters are letters or digits
+        boolean validChars = lower.chars()
+                .allMatch(ch -> Character.isLetterOrDigit(ch));
+
+        if (!validChars) return false;
+
+        // Check vowel present
+        boolean hasVowel = lower.chars()
+                .anyMatch(ch -> "aeiou".indexOf(ch) >= 0);
+
+        // Check consonant present
+        boolean hasConsonant = lower.chars()
+                .anyMatch(ch -> Character.isLetter(ch) && "aeiou".indexOf(ch) < 0);
+
+        return hasVowel && hasConsonant;
+    }
