@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0050-powx-n) |
 | [2032-largest-odd-number-in-string](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Binary Search
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/2032-largest-odd-number-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/jagdishrathod1302/Interview_DSA_Algo/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
